@@ -1,7 +1,7 @@
 {
   "slug": "clojurescript",
   "language": "ClojureScript",
-  "repository": "https://github.com/exercism/xclojurescript",
+  "repository": "https://github.com/exercism/clojurescript",
   "active": false,
   "test_pattern": "TODO",
   "exercises": [
