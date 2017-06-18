@@ -1,6 +1,6 @@
 # Exercism ClojureScript Track
 
-![build status](https://travis-ci.org/exercism/xslug.svg?branch=master)
+![build status](https://travis-ci.org/exercism/clojurescript.svg?branch=master)
 
 Exercism exercises in ClojureScript.
 
